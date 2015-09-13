@@ -11,6 +11,7 @@
 
     <title>Noe's Portfolio</title>
 
+    <link rel="shortcut icon" href="favicon.ico" type="/public/favicon.ico"/>
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 
@@ -117,7 +118,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
                         <h3>E-Commmerce Ready</h3>
-                        <p class="text-muted">You will have the ability to sell and keep teack of your inevtory and sales and so much more!</p>
+                        <p class="text-muted">You will have the ability to sell and keep teack of your inventory and sales and so much more!</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -131,7 +132,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
                         <h3>Made with Love</h3>
-                        <p class="text-muted">I will devote all the time that is needed to create the perfect site for you.</p>
+                        <p class="text-muted">I will devote all the time that is necessary to create the perfect site for you.</p>
                     </div>
                 </div>
             </div>
