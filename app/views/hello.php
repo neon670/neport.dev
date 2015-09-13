@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Noe's Portfolio</title>
+    <title>Noe Nevarez</title>
 
     <link rel="shortcut icon" href="favicon.ico" type="/public/favicon.ico"/>
     <!-- Bootstrap Core CSS -->
@@ -47,7 +47,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Noe Nevarez</a>
+                <a class="navbar-brand page-scroll" id="navback" href="#page-top">Noe Nevarez</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -144,14 +144,14 @@
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="http://skywaterspw.com/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     
                                 </div>
                                 <div class="project-name">
-                                    Skywaters Powerwash
+                                    Concepts Construction
                                 </div>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="http://westsidedoginitiative.org/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -174,7 +174,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="http://cartblanche.website/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -189,7 +189,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="http://victoriamynguyen.com/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -203,7 +203,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="http://noesamazing.website/" arget="blank" class="portfolio-box">
+                    <a href="http://noesamazing.website/" target="blank" class="portfolio-box">
                         <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -254,7 +254,7 @@
                     <p>Ready to start your next project with me? That's great! Send me an email and I will get back to you as soon as possible! Please include project start time/deadline, theme and budget .</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
-                	<h4>Connect</h4>
+                	<p class="connect">Connect</p>
                 	<ul class="social-links clearfix">
 	                    <a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter fa-3x"></i></a>
 						<a target="_blank" href="https://github.com/neon670"><i class="fa fa-github fa-3x"></i></a>

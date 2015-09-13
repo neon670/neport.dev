@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #7c4b16;
 }
 
 h1,
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #7c4b16;
+    background-color: #6d3c07;
 }
 
 .bg-dark {
@@ -473,4 +473,17 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+/*#navback {
+    background-image: url(/img/mylogo1.png);
+}*/
+#vic{
+    height: 226px;
+    width: 650px;
+}
+.connect{
+    font-weight: bold;
+    font: 45px;
+    text-align: center;
 }
