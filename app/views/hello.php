@@ -75,7 +75,7 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Your something clever here</h1>
+                <h1>Enchancing your online presence</h1>
                 <hr>
                 <p>Let me assist you on making what you invision come true</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
@@ -138,7 +138,11 @@
             </div>
         </div>
     </section>
-
+<section class="new-div">
+        <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Portfolio</h2>
+                <hr class="primary">
+        </div>
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter">
@@ -235,6 +239,7 @@
             </div>
         </div>
     </section>
+</section>
 
     <!-- <aside class="bg-dark">
         <div class="container text-center">
