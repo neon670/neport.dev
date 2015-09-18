@@ -131,7 +131,7 @@
                 <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Made with Love</h3>
+                        <h3></h3>
                         <p class="text-muted">I will devote all the time that is necessary to create the perfect site for you.</p>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="http://noesamazing.website/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
