@@ -147,7 +147,7 @@
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="http://skywaterspw.com/" target="blank" class="portfolio-box">
+                    <a href="http://conceptsconstruction.com/" target="blank" class="portfolio-box">
                         <img src="img/portfolio/1.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
