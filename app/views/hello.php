@@ -78,7 +78,7 @@
                 <h1>Enchancing your online presence</h1>
                 <hr>
                 <p>Let me assist you on making what you invision come true</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+                <a href="#portfolio" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
     </header>
@@ -89,7 +89,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">I've got what you need!</h2>
                     <hr class="light">
-                    <p class="text-faded">I can create what you desire in a timely manner!</p>
+                    <p class="text-faded">I have a passion for developing user friendly sites along with.I can create what you desire in a timely manner!</p>
                     <a href="#" class="btn btn-default btn-xl">Lets get Started!</a>
                 </div>
             </div>
@@ -110,8 +110,8 @@
                 <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-code wow bounceIn text-primary"></i>
-                        <h3>WordPress Templates</h3>
-                        <p class="text-muted">Will create a CMS website</p>
+                        <h3>Websites</h3>
+                        <p class="text-muted">Specialize in building professional websites using WordPress or building custom professional websites from the ground up.</p>
                     </div>
                 </div>
                <!--  <div class="col-lg-3 col-md-6 text-center">
@@ -125,13 +125,13 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Up to Date</h3>
-                        <p class="text-muted">Can assist you with keeping you website up to date</p>
+                        <p class="text-muted">Can assist you with keeping you website up to date and revelant</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3></h3>
+                        <i class="fa-4x fa fa-cog fa-spin  text-primary" data-wow-delay=".3s"></i>
+                        <h3>Schedule</h3>
                         <p class="text-muted">I will devote all the time that is necessary to create the perfect site for you.</p>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                 	<p class="connect">Connect</p>
                 	<ul class="social-links clearfix">
-	                    <a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter fa-3x"></i></a>
+	                    <a target="_blank" href="https://twitter.com/noe67"><i class="fa fa-twitter fa-3x"></i></a>
 						<a target="_blank" href="https://github.com/neon670"><i class="fa fa-github fa-3x"></i></a>
 						<a target="_blank" href="https://www.linkedin.com/in/nevareznoe"><i class="fa fa-linkedin fa-3x"></i></a>
 					</ul>
@@ -287,6 +287,10 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+    <script type="text/javascript">
+        $('.header-content').animate({right:50});
+
+    </script>
 
 </body>
 
