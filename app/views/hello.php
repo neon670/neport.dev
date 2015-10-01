@@ -87,9 +87,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">I've got what you need!</h2>
+                    <h2 class="section-heading">I'm passionate in what I do!</h2>
                     <hr class="light">
-                    <p class="text-faded">I have a passion for developing user friendly sites along with.I can create what you desire in a timely manner!</p>
+                    <p class="text-faded">I strive to deliver the exact desired online presence for each and every client. My experience allows for custom development of web applications for a robust user expereience. In addition to your online presence, I offer a complete suite of marketing materials.</p>
                     <a href="#" class="btn btn-default btn-xl">Lets get Started!</a>
                 </div>
             </div>
