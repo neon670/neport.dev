@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Noe Nevarez</title>
+    <title>Noe Nevarez Web Developer</title>
 
     <link rel="shortcut icon" href="favicon.ico" type="/public/favicon.ico"/>
     <!-- Bootstrap Core CSS -->
@@ -42,7 +42,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">Web Developer</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -87,7 +87,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">I'm passionate in what I do!</h2>
+                    <h2 class="section-heading">I'm a passionate Web Developer ready to work for you!</h2>
                     <hr class="light">
                     <p class="text-faded">I strive to deliver the exact desired online presence for each and every client. My experience allows for custom development of web applications for a robust user expereience. In addition to your online presence, I offer a complete suite of marketing materials.</p>
                     <a href="#" class="btn btn-default btn-xl">Lets get Started!</a>
