@@ -207,7 +207,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="http://noesamazing.website/" target="blank" class="portfolio-box">
+                    <a href="http://djbait.com/" target="blank" class="portfolio-box">
                         <img src="img/portfolio/5.jpg" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -215,14 +215,14 @@
                                 
                                 </div>
                                 <div class="project-name">
-                                    Noe's Site
+                                    Dj Bait
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-               <!--  <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="http://cnmassage.me/" target="blank" class="portfolio-box">
                         <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -230,25 +230,17 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Christina Licensed Massage Therapist
                                 </div>
                             </div>
                         </div>
                     </a>
-                </div> -->
+                </div>
             </div>
         </div>
     </section>
 </section>
 
-    <!-- <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a>
-            </div>
-        </div>
-    </aside> -->
 
     <section id="contact">
         <div class="container">
