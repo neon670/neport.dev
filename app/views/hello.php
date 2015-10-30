@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="keywords" content="web development, web developer, web design, websites, online presence,feelance web developer">
+    <meta name="description" content="Noe Nevarez.com strives to deliver the exact desired online presence for each and every client ">
 
     <title>Noe Nevarez Web Developer</title>
 
