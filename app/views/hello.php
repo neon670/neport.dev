@@ -75,7 +75,7 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Enchancing your online presence</h1>
+                <h1>Enhancing your online presence</h1>
                 <hr>
                 <p>Let me assist you on making what you invision come true</p>
                 <a href="#portfolio" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
