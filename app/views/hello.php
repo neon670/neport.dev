@@ -222,8 +222,8 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="http://cnmassage.me/" target="blank" class="portfolio-box">
-                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
+                    <a href="" target="blank" class="portfolio-box">
+                        <img src="" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
