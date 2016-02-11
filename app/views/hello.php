@@ -89,7 +89,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">I'm a passionate Web Developer ready to work for you!</h2>
                     <hr class="light">
-                    <p class="text-faded">I strive to deliver the exact desired online presence for each and every client. My experience allows for custom development of web applications for a robust user expereience. In addition to your online presence, I offer a complete suite of marketing materials.</p>
+                    <p class="text-faded">I strive to deliver the exact desired online presence for each and every client. My experience allows for custom development of web applications for a robust user experience. In addition to your online presence, I offer a complete suite of marketing materials.</p>
                     <a href="#" class="btn btn-default btn-xl">Lets get Started!</a>
                 </div>
             </div>
@@ -222,7 +222,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="" target="blank" class="portfolio-box">
+                    <a href="http://cnmassage.me/" target="blank" class="portfolio-box">
                         <img src="" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
