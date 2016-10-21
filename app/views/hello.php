@@ -33,6 +33,14 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!--heatmap -->
+    <script>
+        (function(h,e,a,t,m,p) {
+        m=e.createElement(a);m.async=!0;m.src=t;
+        p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+        })(window,document,'script','https://u.heatmap.it/log.js');
+    </script>
+
 </head>
 
 <body id="page-top">
@@ -281,6 +289,7 @@
     <script src="js/creative.js"></script>
     <script type="text/javascript">
         $('.header-content').animate({right:50});
+   
 
     </script>
 
