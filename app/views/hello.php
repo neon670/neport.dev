@@ -222,15 +222,15 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="http://cnmassage.me/" target="blank" class="portfolio-box">
-                        <img src="" class="img-responsive" alt="" id="vic">
+                    <a href="http://www.gcoatings.com/" target="blank" class="portfolio-box">
+                        <img src="img/portfolio/gcc.png" class="img-responsive" alt="" id="vic">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     
                                 </div>
                                 <div class="project-name">
-                                    Christina Licensed Massage Therapist
+                                    General Coatings Corp.
                                 </div>
                             </div>
                         </div>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:closner_nevarez@hotmail.com">webdesign@noenevarez.com</a></p>
+                    <p><a href="mailto:webdesign@noenevarez.com">webdesign@noenevarez.com</a></p>
                 </div>
             </div>
         </div>
