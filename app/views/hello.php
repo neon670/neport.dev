@@ -34,11 +34,14 @@
     <![endif]-->
 
     <!--heatmap -->
-    <script>
-        (function(h,e,a,t,m,p) {
-        m=e.createElement(a);m.async=!0;m.src=t;
-        p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
-        })(window,document,'script','https://u.heatmap.it/log.js');
+    <script type="text/javascript">
+        var _mfq = _mfq || [];
+        (function() {
+            var mf = document.createElement("script");
+            mf.type = "text/javascript"; mf.async = true;
+            mf.src = "//cdn.mouseflow.com/projects/f6941542-4526-4048-86c5-3fff86c36eeb.js";
+            document.getElementsByTagName("head")[0].appendChild(mf);
+        })();
     </script>
 
 </head>
