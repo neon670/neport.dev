@@ -121,7 +121,7 @@
                 <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-code wow bounceIn text-primary"></i>
-                        <h3>Websites</h3>
+                        <h3>Website</h3>
                         <p class="text-muted">Specialize in building professional websites using WordPress or building custom professional websites from the ground up.</p>
                     </div>
                 </div>
