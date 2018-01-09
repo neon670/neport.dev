@@ -196,7 +196,7 @@
                                     
                                 </div>
                                 <div class="project-name">
-                                	Cart Blanche
+                                	Cart Blanch
                                 </div>
                             </div>
                         </div>
